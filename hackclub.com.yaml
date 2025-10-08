@@ -1,3 +1,10 @@
+it.hackclub.com:
+  - ttl: 600
+    type: CNAME
+    value: ollievdb.wixsite.com/ollievdb.
+
+
+
 ? ''
 : - ttl: 300
     type: ALIAS
